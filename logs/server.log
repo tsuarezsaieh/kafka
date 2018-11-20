@@ -1,0 +1,6 @@
+[2018-11-20 06:06:35,622] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2018-11-20 06:10:01,431] INFO [GroupCoordinator 0]: Member streams-wordcount-bbbd65cf-3d13-4201-baee-8cc806c0c823-StreamThread-1-consumer-7778afd7-481f-4008-b2ca-c8b5ee5d1e5c in group streams-wordcount has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2018-11-20 06:10:01,432] INFO [GroupCoordinator 0]: Preparing to rebalance group streams-wordcount with old generation 24 (__consumer_offsets-35) (kafka.coordinator.group.GroupCoordinator)
+[2018-11-20 06:10:01,432] INFO [GroupCoordinator 0]: Group streams-wordcount with generation 25 is now empty (__consumer_offsets-35) (kafka.coordinator.group.GroupCoordinator)
+[2018-11-20 06:16:35,631] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2018-11-20 06:26:35,659] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
